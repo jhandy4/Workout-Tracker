@@ -9,6 +9,10 @@ As a user, I want to be able to view create and track daily workouts. I want to 
    3. "Continue" will allow you to add to your most recent exercise program.  Click complete   when you are done.
    4. Click on "Dashboard" to see your progress "Stats".
    5. Click on "Fitness Tracker" to go back to the main page.
+   
+## Installation: 
+
+   npm install
 
 ![Main Page](public/Screenshot.png)
 
