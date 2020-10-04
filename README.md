@@ -14,6 +14,15 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
    npm install
 
+## Requirements: 
+
+   * [Node.js] (https://nodejs.org/en/)
+   * [MongoDB] (https://mongodb.com)
+   * [Robo3T] (https://robomongo.org/)
+   * NPM Packages:
+        * [Express] 
+        * [Mongoose]
+
 ![Main Page](public/Screenshot.png)
 
 
